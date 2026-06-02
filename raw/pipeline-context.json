@@ -42,5 +42,43 @@
       "thumbnail": "https://i.ytimg.com/vi/5MgBikgcWnY/hqdefault.jpg",
       "source_type": "youtube"
     }
+  },
+  "stage_c": {
+    "run_id": "direct-1780371067",
+    "start_time": "2026-06-02T03:31:07Z",
+    "end_time": "2026-06-02T03:33:19Z",
+    "duration_s": 132,
+    "llm_calls": 21,
+    "pages_created_total": 19,
+    "pages_new_this_run": 19,
+    "pages_updated_this_run": 0,
+    "file_paths": [
+      "wiki/concepts/10000小时法则.md",
+      "wiki/concepts/20小时快速学习法.md",
+      "wiki/concepts/刻意练习.md",
+      "wiki/concepts/学习曲线.md",
+      "wiki/concepts/学习的障碍.md",
+      "wiki/concepts/学习自纠.md",
+      "wiki/concepts/快速学习.md",
+      "wiki/concepts/承诺投入时间.md",
+      "wiki/concepts/技能分解.md",
+      "wiki/concepts/挫败感.md",
+      "wiki/concepts/有意识练习.md",
+      "wiki/concepts/移除障碍.md",
+      "wiki/entities/josh-kaufman.md",
+      "wiki/entities/k-anders-ericsson.md",
+      "wiki/entities/malcolm-gladwell.md",
+      "wiki/entities/outliers.md",
+      "wiki/entities/tedxcsu.md",
+      "wiki/entities/ukulele.md",
+      "wiki/sources/快速学习的艺术：如何在20小时内掌握任何技能.md"
+    ],
+    "sources": 1,
+    "entities": 6,
+    "concepts": 12,
+    "comparisons": 0,
+    "prompt_tokens": 20635,
+    "completion_tokens": 20075,
+    "status": "success"
   }
 }
